@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/nickanderegg
+------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anderegg.id
+  * I am nickanderegg (https://keybase.io/nickanderegg) on keybase.
+  * I have a public key ASCgfpkVIYU11HH3TP2aNp9Hw_pkwTvnHuEaz4kjoCBOxAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120470a8c8d8be68642803d7d1b8397499e13bdcc2182370dc8708ada6f74356c8a0a",
+      "host": "keybase.io",
+      "kid": "0120a07e9915218535d471f74cfd9a369f47c3fa64c13be71ee11acf8923a0204ec40a",
+      "uid": "46cbdffe8f8c50ef9c2a170abb25e719",
+      "username": "nickanderegg"
+    },
+    "merkle_root": {
+      "ctime": 1566941118,
+      "hash": "18e2de9d62c2ba36490f5ab57ceaa2b21a23f2617499fcd0c99af9f4f32b70d05d2b7d2dd7f8a7327f784472aa69856e705b0b5240f8c644c3bdf5fb553c40c0",
+      "hash_meta": "70e14f9e0829cd48dbff764ff810e1a5ef8d85a66a1089133f207aa0ed9c22f1",
+      "seqno": 6113345
+    },
+    "service": {
+      "entropy": "s9kWPfgfW0WjxHtK/6zVOXgj",
+      "hostname": "anderegg.id",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1566941135,
+  "expire_in": 504576000,
+  "prev": "59c137080f8aeac5d14920330fd08598f34541b293689bbdd18e4c5de53ec329",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoH6ZFSGFNdRx90z9mjafR8P6ZME75x7hGs+JI6AgTsQKp3BheWxvYWTESpcCKsQgWcE3CA+K6sXRSSAzD9CFmPNFQbKTaJu90Y5MXeU+wynEIOE5olZn64lIgsPjhtv4FsTLbMiMBhnQLJlRQniLt3T5AgHCo3NpZ8RAqD225hGZiC/aTVT1HJya0rWnhosd49qosNsWBNTt1w2fFUe8xh6a+SOHgjV5FVJpiXbXJCx1g+1Q5fXC77KUAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE65y378uJUDpwci0sF6365TojlYNfx84ZJUAb9SGrNBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nickanderegg
+==================================================================
